@@ -3,7 +3,7 @@
 
 Welcome to a collection of AI-generated artwork — where creativity meets code, and every piece tells a story.
 
-🖼️ Two images per row for better viewing experience.  
+🖼️ Two images per row for better viewing experience in mobile.  
 
 ---
 
