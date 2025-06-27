@@ -4,65 +4,148 @@
 Welcome to a collection of AI-generated artwork — where creativity meets code, and every piece tells a story.
 
 🖼️ Two images per row for better viewing experience.  
-💡 All images are original and carefully curated.
 
 ---
 
 <table>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/black_hole_capturing.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/black_hole_skeletor.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="black_hole_capturing.png" width="300"/><br/>
+      <a href="black_hole_capturing.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="black_hole_skeletor.png" width="300"/><br/>
+      <a href="black_hole_skeletor.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/black_hole_skeletor_glows_.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/bush_rampage.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="black_hole_skeletor_glows_.png" width="300"/><br/>
+      <a href="black_hole_skeletor_glows_.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="bush_rampage.png" width="300"/><br/>
+      <a href="bush_rampage.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/carrot_man.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/cosmic_iceman.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="carrot_man.png" width="300"/><br/>
+      <a href="carrot_man.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="cosmic_iceman.png" width="300"/><br/>
+      <a href="cosmic_iceman.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/dragon_castle.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/elokapina.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="dragon_castle.png" width="300"/><br/>
+      <a href="dragon_castle.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="elokapina.png" width="300"/><br/>
+      <a href="elokapina.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/end_of_the_world_happy.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/future_dramatic_city.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="end_of_the_world_happy.png" width="300"/><br/>
+      <a href="end_of_the_world_happy.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="future_dramatic_city.png" width="300"/><br/>
+      <a href="future_dramatic_city.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/ice_sidepicture.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/iceman_with_lightning.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="ice_sidepicture.png" width="300"/><br/>
+      <a href="ice_sidepicture.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="iceman_with_lightning.png" width="300"/><br/>
+      <a href="iceman_with_lightning.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/kallbada_lighthouse.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/me_surfing.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="kallbada_lighthouse.png" width="300"/><br/>
+      <a href="kallbada_lighthouse.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="me_surfing.png" width="300"/><br/>
+      <a href="me_surfing.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/me_walking_with_velociraptors.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/mountain_northern_lights.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="me_walking_with_velociraptors.png" width="300"/><br/>
+      <a href="me_walking_with_velociraptors.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="mountain_northern_lights.png" width="300"/><br/>
+      <a href="mountain_northern_lights.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/multiversum.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/musk_and_trump.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="multiversum.png" width="300"/><br/>
+      <a href="multiversum.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="musk_and_trump.png" width="300"/><br/>
+      <a href="musk_and_trump.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/otto-and-shark.jpeg?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/paddling.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="otto-and-shark.jpeg" width="300"/><br/>
+      <a href="otto-and-shark.jpeg">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="paddling.png" width="300"/><br/>
+      <a href="paddling.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/ron_fire&ice.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/ron_ice_1&1.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="ron_fire&ice.png" width="300"/><br/>
+      <a href="ron_fire&ice.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="ron_ice_1&1.png" width="300"/><br/>
+      <a href="ron_ice_1&1.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/ron_ice_lightning_hood.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/ron_normal_look.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="ron_ice_lightning_hood.png" width="300"/><br/>
+      <a href="ron_ice_lightning_hood.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="ron_normal_look.png" width="300"/><br/>
+      <a href="ron_normal_look.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/shaving_close.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/sunset_mountains_1920x1080_16_9.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="shaving_close.png" width="300"/><br/>
+      <a href="shaving_close.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="sunset_mountains_1920x1080_16_9.png" width="300"/><br/>
+      <a href="sunset_mountains_1920x1080_16_9.png">🔍 View full size</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/sunset_mountains_edited.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/thoughts.png?raw=true" width="300"/></td>
+    <td align="center">
+      <img src="sunset_mountains_edited.png" width="300"/><br/>
+      <a href="sunset_mountains_edited.png">🔍 View full size</a>
+    </td>
+    <td align="center">
+      <img src="thoughts.png" width="300"/><br/>
+      <a href="thoughts.png">🔍 View full size</a>
+    </td>
   </tr>
 </table>
