@@ -19,7 +19,7 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
   </tr>
   <tr>
     <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/carrot_man.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/cosmic_iceman.png?raw=true" width="300" height="400"/></td>
+    <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/cosmic_iceman.png?raw=true" width="300"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/dragon_castle.png?raw=true" width="300"/></td>
