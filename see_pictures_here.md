@@ -18,7 +18,7 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
     </td>
     <td align="center">
       <img src="black_hole_skeletor.png" width="300"/><br/>
-      <strong>Black Hole Skeletor – skull in space</strong><br/>
+      <strong>Black Hole Skeletor – beware the skeletor</strong><br/>
       <a href="black_hole_skeletor.png">🔍 View full size</a>
     </td>
   </tr>
@@ -49,7 +49,7 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
   <tr>
     <td align="center">
       <img src="dragon_castle.png" width="300"/><br/>
-      <strong>Dragon Castle – fortress of fire</strong><br/>
+      <strong>Dragon Castle – fortress of darkness</strong><br/>
       <a href="dragon_castle.png">🔍 View full size</a>
     </td>
       <td align="center">
@@ -121,7 +121,7 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
   <tr>
     <td align="center">
       <img src="ron_ice_1&1.png" width="300"/><br/>
-      <strong>Ron Ice 1&1 – frozen duality</strong><br/>
+      <strong>Ron in Ice Storm  – frozen duality</strong><br/>
       <a href="ron_ice_1&1.png">🔍 View full size</a>
     </td>
     <td align="center">
