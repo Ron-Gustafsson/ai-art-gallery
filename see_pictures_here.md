@@ -120,9 +120,9 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
   </tr>
   <tr>
     <td align="center">
-      <img src="paddling.png" width="300"/><br/>
-      <strong>Paddling – calm waters</strong><br/>
-      <a href="paddling.png">🔍 View full size</a>
+      <img src="ron_ice_1&1.png" width="300"/><br/>
+      <strong>Ron Ice 1&1 – frozen duality</strong><br/>
+      <a href="ron_ice_1&1.png">🔍 View full size</a>
     </td>
     <td align="center">
       <img src="ron_fire&ice.png" width="300"/><br/>
@@ -132,9 +132,9 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
   </tr>
   <tr>
     <td align="center">
-      <img src="ron_ice_1&1.png" width="300"/><br/>
-      <strong>Ron Ice 1&1 – frozen duality</strong><br/>
-      <a href="ron_ice_1&1.png">🔍 View full size</a>
+      <img src="paddling.png" width="300"/><br/>
+      <strong>Paddling – calm waters</strong><br/>
+      <a href="paddling.png">🔍 View full size</a>
     </td>
     <td align="center">
       <img src="ron_ice_lightning_hood.png" width="300"/><br/>
