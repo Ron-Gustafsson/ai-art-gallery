@@ -60,9 +60,9 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
   </tr>
   <tr>
     <td align="center">
-      <img src="end_of_the_world_happy.png" width="300"/><br/>
-      <strong>End of the World Happy – joy in chaos</strong><br/>
-      <a href="end_of_the_world_happy.png">🔍 View full size</a>
+      <img src="ice_sidepicture.png" width="300"/><br/>
+      <strong>Ice Sidepicture – frozen portrait</strong><br/>
+      <a href="ice_sidepicture.png">🔍 View full size</a>
     </td>
     <td align="center">
       <img src="future_dramatic_city.png" width="300"/><br/>
@@ -71,10 +71,10 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="ice_sidepicture.png" width="300"/><br/>
-      <strong>Ice Sidepicture – frozen portrait</strong><br/>
-      <a href="ice_sidepicture.png">🔍 View full size</a>
+      <td align="center">
+        <img src="end_of_the_world_happy.png" width="300"/><br/>
+        <strong>End of the World Happy – joy in chaos</strong><br/>
+        <a href="end_of_the_world_happy.png">🔍 View full size</a>
     </td>
     <td align="center">
       <img src="iceman_with_lightning.png" width="300"/><br/>
