@@ -147,7 +147,7 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
     </td>
     <td align="center">
       <img src="terminator_hybrid.png" width="300"/><br/>
-      **Terminator Hybrid – half man, half machine**<br>
+      <strong>Terminator Hybrid – half man, half machine</strong><br>
       <a href="terminator_hybrid.png">🔍 View full size</a>
     </td>
   </tr>
