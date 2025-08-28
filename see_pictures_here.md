@@ -52,10 +52,10 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
       <strong>Dragon Castle – fortress of fire</strong><br/>
       <a href="dragon_castle.png">🔍 View full size</a>
     </td>
-    <td align="center">
-      <img src="elokapina.png" width="300"/><br/>
-      <strong>Elokapina – protest in art form</strong><br/>
-      <a href="elokapina.png">🔍 View full size</a>
+      <td align="center">
+      <img src="shaving_close.png" width="300"/><br/>
+      <strong>Shaving Close – detailed realism</strong><br/>
+      <a href="shaving_close.png">🔍 View full size</a>
     </td>
   </tr>
   <tr>
@@ -148,10 +148,10 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
       <strong>Ron Normal Look – portrait</strong><br/>
       <a href="ron_normal_look.png">🔍 View full size</a>
     </td>
-    <td align="center">
-      <img src="shaving_close.png" width="300"/><br/>
-      <strong>Shaving Close – detailed realism</strong><br/>
-      <a href="shaving_close.png">🔍 View full size</a>
+      <td align="center">
+      <img src="elokapina.png" width="300"/><br/>
+      <strong>Elokapina – protest in art form</strong><br/>
+      <a href="elokapina.png">🔍 View full size</a>
     </td>
   </tr>
   <tr>
