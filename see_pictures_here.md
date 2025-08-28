@@ -35,10 +35,10 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="carrot_man.png" width="300"/><br/>
-      <strong>Carrot Man – surreal vegetable hero</strong><br/>
-      <a href="carrot_man.png">🔍 View full size</a>
+      <td align="center">
+      <img src="mountain_northern_lights.png" width="300"/><br/>
+      <strong>Mountain Northern Lights – arctic sky</strong><br/>
+      <a href="mountain_northern_lights.png">🔍 View full size</a>
     </td>
     <td align="center">
       <img src="cosmic_iceman.png" width="300"/><br/>
@@ -100,10 +100,10 @@ Welcome to a collection of AI-generated artwork — where creativity meets code,
       <strong>Walking with Velociraptors – Jurassic fantasy</strong><br/>
       <a href="me_walking_with_velociraptors.png">🔍 View full size</a>
     </td>
-    <td align="center">
-      <img src="mountain_northern_lights.png" width="300"/><br/>
-      <strong>Mountain Northern Lights – arctic sky</strong><br/>
-      <a href="mountain_northern_lights.png">🔍 View full size</a>
+      <td align="center">
+      <img src="carrot_man.png" width="300"/><br/>
+      <strong>Carrot Man – surreal vegetable hero</strong><br/>
+      <a href="carrot_man.png">🔍 View full size</a>
     </td>
   </tr>
   <tr>
